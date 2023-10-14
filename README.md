@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Backend!**
 
-- 👨‍💻 All of my projects are available at [ajayadhakal.com.np](ajayadhakal.com.np)
+- 👨‍💻 All of my projects are available at (https://ajayadhakal.com.np)
 
 - 💬 Ask me about **HTML,CSS,Bootstrap**
 
