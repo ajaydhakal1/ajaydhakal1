@@ -1,5 +1,7 @@
+<center>
 [![MasterHead](https://t3.ftcdn.net/jpg/01/94/01/00/360_F_194010093_9tC5JNVsiEOlVDs2F5Y6d0paYrdWTdbT.jpg)](https://ajayadhakal.com.np)
-<h1 align="center">Hi 👋, I'm Ajay Dhakal</h1>
+</center>
+  <h1 align="center">Hi 👋, I'm Ajay Dhakal</h1>
 <h3 align="center">A passionate frontend developer from Nepal</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
 
