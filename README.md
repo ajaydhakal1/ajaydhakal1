@@ -5,15 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajaydhakal1&label=Profile%20views&color=0e75b6&style=flat" alt="ajaydhakal1" /> </p>
 
-- 🔭 I’m currently working on **React Project**
+- 🔭 I’m currently working on **Laravel Project**
 
-- 🌱 I’m currently learning **React,Node js,C#**
-
-- 🤝 I’m looking for help with **Backend!**
+- 🌱 I’m currently learning **Laravel#**
 
 - 👨‍💻 All of my projects are available at (https://ajayadhakal.com.np)
 
-- 💬 Ask me about **HTML,CSS,Bootstrap**
+- 💬 Ask me about **HTML,CSS,Bootstrap,JS,PHP,Laravel**
 
 - 📫 How to reach me **aajayadhakal@gmail.com**
 
