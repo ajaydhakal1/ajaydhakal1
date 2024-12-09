@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Laravel Project**
 
-- 🌱 I’m currently learning **Laravel#**
+- 🌱 I’m currently learning **Laravel**
 
 - 👨‍💻 All of my projects are available at (https://ajayadhakal.com.np)
 
