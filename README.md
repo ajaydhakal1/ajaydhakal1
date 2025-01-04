@@ -7,8 +7,6 @@
 
 - 🔭 I’m currently working on **Laravel Project**
 
-- 🌱 I’m currently learning **Laravel**
-
 - 👨‍💻 All of my projects are available at (https://ajayadhakal.com.np)
 
 - 💬 Ask me about **HTML,CSS,Bootstrap,JS,PHP,Laravel**
