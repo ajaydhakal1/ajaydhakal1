@@ -1,5 +1,8 @@
 
 [![Visits Badge](https://komarev.com/ghpvc/?username=ajaydhakal1&label=Profile%20views&color=770677&style=for-the-badge)](https://ajaydhakal.com)
+
+[![wakatime](https://wakatime.com/badge/github/ajaydhakal1/ajaydhakal1.svg)](https://wakatime.com/badge/github/ajaydhakal1/ajaydhakal1)
+
 [![](https://wakatime.com/badge/user/787f4b56-4ed2-43e0-a32c-335b5c3c1e34/project/914a42f2-2b8a-466f-83d1-b3c035892d37.svg?style=for-the-badge)](https://wakatime.com/@ajaydkl)
   <img src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" width="30"/>
 
