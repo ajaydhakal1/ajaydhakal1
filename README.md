@@ -1,6 +1,5 @@
 
 [![Visits Badge](https://komarev.com/ghpvc/?username=ajaydhakal1&label=Profile%20views&color=770677&style=for-the-badge)](https://ajaydhakal.com)
-[![](https://wakatime.com/badge/github/ajaydhakal1/ajaydhakal1.svg)](https://wakatime.com/badge/github/ajaydhakal1/ajaydhakal1)
 <img src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" width="30"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=38&pause=1000&color=D67BFF&width=700&lines=Hi+there%2C+I'm+Ajay+Dhakal!+%F0%9F%91%8B)](https://git.io/typing-svg)
