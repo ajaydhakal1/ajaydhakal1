@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=38&pause=1000&color=D67BFF&width=700&lines=Hi+there%2C+I'm+Ajay+Dhakal!+%F0%9F%91%8B)](https://git.io/typing-svg)
 
-I'm an 18-year-old from Pokhara, Nepal, with a strong interest in web development. I started coding early, learning how different technologies work together and how to customize them. My goal is to become a full-stack developer and build web applications that create a real impact.
+I'm a tech enthusiast from Pokhara, Nepal, with a strong interest in web development. I started coding early, learning how different technologies work together and how to customize them. My goal is to become a full-stack developer and build web applications that create a real impact.
 
 I also share my thoughts and insights on programming and technology through blogs on my [website](https://ajaydhakal.com/blog)
 
