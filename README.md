@@ -21,4 +21,4 @@ A passionate computer science enthusiast, I have a deep love for technology and 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/the-ajay/)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ajaydkl07)
-[![Website](https://img.shields.io/badge/Website-%230000FF.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.ajaydhakal.com)
+[![Website](https://img.shields.io/badge/Website-%230000FF.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.ajaydhakal.site)
