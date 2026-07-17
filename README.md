@@ -6,7 +6,7 @@
 
 I'm a tech enthusiast from Nepal, with a strong interest in development. I started coding early, learning how different technologies work together and how to customize them. My goal is to build web applications that create a real impact.
 
-I also share my thoughts and insights on programming and technology through blogs on my [website](https://ajaydhakal.site/blogs)
+I also share my thoughts and insights on programming and technology through blogs on my [website](https://ajaydhakal.site)
 
 A passionate computer science enthusiast, I have a deep love for technology and innovation. 🚀
 
