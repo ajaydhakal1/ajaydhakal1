@@ -4,21 +4,25 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=38&pause=1000&color=D67BFF&width=700&lines=Hi+there%2C+I'm+Ajay+Dhakal!+%F0%9F%91%8B)](https://git.io/typing-svg)
 
-I'm a tech enthusiast from Nepal, with a strong interest in development. I started coding early, learning how different technologies work together and how to customize them. My goal is to build web applications that create a real impact.
+I’m a developer from Nepal who likes turning ideas into things people can actually use.
 
-I also share my thoughts and insights on programming and technology through blogs on my [website](https://ajaydhakal.site)
+Most of my work lives around **web applications, SaaS products, and AI-powered tools**. I enjoy working across the stack — from designing a clean interface to building the APIs, database, and infrastructure behind it.
 
-A passionate computer science enthusiast, I have a deep love for technology and innovation. 🚀
+I’m particularly interested in **Laravel, React, and AI**, and lately I've been spending a lot of time exploring what happens when software can do more than just respond — when it can actually **understand, decide, and take action**.
 
-## Tech Stacks and Tools 👨‍💻
+Outside of writing code, you'll probably find me experimenting with a new idea, breaking something I just built, or trying to figure out why it broke in the first place.
+
+I write about things I learn, build, and occasionally overthink on my [website](https://ajaydhakal.site).
+
+## Things I work with
 <p align="left">
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,laravel,php,react,figma,git,mysql,mongodb,postman,tailwind,vscode,vercel,sass,powershell,md,firebase,cloudflare,bun,docker,npm,pnpm,notion"/>
 </p>
 
 
 
-## Connect with Me 🫣
+## Find me around the internet
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/the-ajay/)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ajaydkl07)
-[![Website](https://img.shields.io/badge/Website-%230000FF.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.ajaydhakal.site)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/the-ajay/)
+[![Website](https://img.shields.io/badge/Website-111111?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ajaydhakal.site)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ajaydkl07)
